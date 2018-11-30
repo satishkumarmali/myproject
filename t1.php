@@ -1,7 +1,0 @@
-
-
-
-
-
-
-echo "satish mali";
